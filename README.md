@@ -4,26 +4,25 @@
 Clona el repositorio:
 
 Copiar código
-### git clone https://github.com/RansilvaV29/paracial3Prueba.git
+### `git clone https://github.com/RansilvaV29/paracial3Prueba.git`
 
 2. Ve al directorio del proyecto:
 
 Copiar código
-### cd parcial3Prueba
-
+### `cd parcial3Prueba`
 ## Para el frontend
 
 1. Ve al directorio del frontend del proyecto:
 
 Copiar código
-### cd frontend
+### `cd frontend`
 
 2. Instala las dependencias:
 
 Copiar código
-### npm install
+### `npm install`
 Scripts Disponibles
-### npm build
+### `npm build`
 Ejecuta la aplicación en modo de desarrollo.
 Abre [http://localhost:3000] para verla en el navegador.
 
@@ -32,15 +31,15 @@ Abre [http://localhost:3000] para verla en el navegador.
 1. Ve al directorio del backend del proyecto:
 
 Copiar código
-### cd backend
+### `cd backend`
 
 2. Instala las dependencias:
 
 Copiar código
 
-### npm install
-### npm install bcrypt
+### `npm install`
+### `npm install bcrypt`
 
 Scripts Para correr el servidor
 
-### node server.js 
+### `node server.js `
