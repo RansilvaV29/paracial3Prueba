@@ -1,5 +1,27 @@
 # Getting Started with Create React App
 
+##Comenzando con Create React App
+1. Instalación
+Clona el repositorio:
+
+bash
+Copiar código
+git clone https://github.com/tu-repositorio.git
+Ve al directorio del proyecto:
+
+bash
+Copiar código
+cd nombre-del-proyecto
+Instala las dependencias:
+
+bash
+Copiar código
+npm install
+Scripts Disponibles
+npm start
+Ejecuta la aplicación en modo de desarrollo.
+Abre http://localhost:3000 para verla en el navegador.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
